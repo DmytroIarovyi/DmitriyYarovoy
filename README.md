@@ -155,4 +155,4 @@ Hard keys  (cases with hard keys as Home, Back, Menu)
  
   Get healthcheck information about the system
   
-  Make sure it is correct (compare with actual values
+  Make sure it is correct (compare with actual values)
