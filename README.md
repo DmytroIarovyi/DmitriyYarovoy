@@ -10,6 +10,7 @@ N26 HomeChallenge
    
 **_Functional testing_**
 Functionality testing from user perspective based on business/flow requirements/user stories
+**Here should be a lot of test-cases. Unfortunately I had no time to create them**
 
 **_Integration testing_**
    End to end scenarios, add/remove/track changed of expences, implemented by automation qa
