@@ -1,5 +1,4 @@
 # DmitriyYarovoy
-N26 HomeChallenge
 
 # Task 1
 
